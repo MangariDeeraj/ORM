@@ -24,7 +24,7 @@ Execute Django admin and create details for 10 books
 
 ## PROGRAM
 
-
+```
 models.py
 
 from django.db import models
@@ -49,7 +49,7 @@ from .models import Train, TrainAdmin
 
 admin.site.register(Train, TrainAdmin)
 
-````
+```
 
 
 ## OUTPUT

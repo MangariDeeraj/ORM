@@ -53,7 +53,8 @@ admin.site.register(Train, TrainAdmin)
 
 
 ## OUTPUT
-![Screenshot 2024-03-18 210034](https://github.com/MangariDeeraj/ORM/assets/149365485/c184ba26-cd58-45d0-a9ae-f08e02c6da99)
+![Screenshot 2024-03-19 110018](https://github.com/MangariDeeraj/ORM/assets/149365485/c5e96eeb-2106-4d85-b352-a513ac11ac70)
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
